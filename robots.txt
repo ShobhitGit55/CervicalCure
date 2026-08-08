@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shobhitgit55.github.io/CervicalCure/sitemap.xml
